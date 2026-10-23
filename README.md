@@ -1,2 +1,2 @@
 # javarush-repo-test
-Test repo
+Это тестовый репозиторий!
